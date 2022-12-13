@@ -1,0 +1,3 @@
+/mnt/b/Down/code/cpp/module_00/megaphone_1/CMakeFiles/rebuild_cache.dir
+/mnt/b/Down/code/cpp/module_00/megaphone_1/CMakeFiles/edit_cache.dir
+/mnt/b/Down/code/cpp/module_00/megaphone_1/CMakeFiles/Megaphone.dir
